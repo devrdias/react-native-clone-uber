@@ -61,7 +61,7 @@ const Map = ({
             />
             <Marker coordinate={region} anchor={{ x: 0, y: 0 }}>
               <LocationBox>
-                <LocationText>{destination.title}</LocationText>
+                <LocationText>{location}</LocationText>
               </LocationBox>
             </Marker>
 
@@ -75,7 +75,7 @@ const Map = ({
                   <LocationTimeText>{timeToDestination}</LocationTimeText>
                   <LocationTimeTextSmall>min</LocationTimeTextSmall>
                 </LocationTimeBox>
-                <LocationText>{location}</LocationText>
+                <LocationText>{destination.title}</LocationText>
               </LocationBox>
             </Marker>
           </Fragment>
