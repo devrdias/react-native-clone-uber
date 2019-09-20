@@ -1,11 +1,17 @@
 # React Native Uber Clone App
 
+<p align="center">
+  <img src="https://github.com/devrdias/clone-uber/blob/master/src/demo/demoUber.gif">
+</p>
+
+---
+
 The main idea of this project is to show how can React Native interact with Google Maps API and Geolocation API.
 
 Type a location on the search box and the app will determine and trace the route on the google map.
 
-
 ## Dependencies
+
 ```json
     @react-native-community/geolocation: ^1.4.2
     react: 16.8.6
@@ -36,11 +42,6 @@ Type a location on the search box and the app will determine and trace the route
 - [react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/devrdias/clone-uber/blob/master/src/demo/demoUber.gif">
-</p>
-
 
 ## License
 
