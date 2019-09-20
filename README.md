@@ -38,7 +38,7 @@ Type a location on the search box and the app will determine and trace the route
 ---
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/devrdias/clone-uber/blob/master/src/demo/demoUber.gif">
 </p>
 
 
